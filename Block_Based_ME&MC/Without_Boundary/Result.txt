@@ -1,0 +1,1961 @@
+Block Position(Current Frame)=0,0
+
+------------------------------
+Block Position(ref. frame)=0,0-->Error= 4329
+Block Position(ref. frame)=0,1-->Error= 149501
+Block Position(ref. frame)=0,-1-->Invalid!
+Block Position(ref. frame)=1,0-->Error= 293220
+Block Position(ref. frame)=1,1-->Error= 494050
+Block Position(ref. frame)=1,-1-->Invalid!
+Block Position(ref. frame)=-1,0-->Invalid!
+Block Position(ref. frame)=-1,1-->Invalid!
+Block Position(ref. frame)=-1,-1-->Invalid!
+
+Match Position=0,0
+Minimal Error=4329
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,0
+
+------------------------------
+Block Position(ref. frame)=16,0-->Error= 2692
+Block Position(ref. frame)=16,1-->Error= 182771
+Block Position(ref. frame)=16,-1-->Invalid!
+Block Position(ref. frame)=17,0-->Error= 65147
+Block Position(ref. frame)=17,1-->Error= 325590
+Block Position(ref. frame)=17,-1-->Invalid!
+Block Position(ref. frame)=15,0-->Error= 57898
+Block Position(ref. frame)=15,1-->Error= 50484
+Block Position(ref. frame)=15,-1-->Invalid!
+
+Match Position=16,0
+Minimal Error=2692
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,0
+
+------------------------------
+Block Position(ref. frame)=32,0-->Error= 5168
+Block Position(ref. frame)=32,1-->Error= 59194
+Block Position(ref. frame)=32,-1-->Invalid!
+Block Position(ref. frame)=33,0-->Error= 22427
+Block Position(ref. frame)=33,1-->Error= 109618
+Block Position(ref. frame)=33,-1-->Invalid!
+Block Position(ref. frame)=31,0-->Error= 23895
+Block Position(ref. frame)=31,1-->Error= 17302
+Block Position(ref. frame)=31,-1-->Invalid!
+
+Match Position=32,0
+Minimal Error=5168
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,0
+
+------------------------------
+Block Position(ref. frame)=48,0-->Error= 5648
+Block Position(ref. frame)=48,1-->Error= 128589
+Block Position(ref. frame)=48,-1-->Invalid!
+Block Position(ref. frame)=49,0-->Error= 35160
+Block Position(ref. frame)=49,1-->Error= 235617
+Block Position(ref. frame)=49,-1-->Invalid!
+Block Position(ref. frame)=47,0-->Error= 41477
+Block Position(ref. frame)=47,1-->Error= 39053
+Block Position(ref. frame)=47,-1-->Invalid!
+
+Match Position=48,0
+Minimal Error=5648
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,0
+
+------------------------------
+Block Position(ref. frame)=64,0-->Error= 47132
+Block Position(ref. frame)=64,1-->Error= 176623
+Block Position(ref. frame)=64,-1-->Invalid!
+Block Position(ref. frame)=65,0-->Error= 79639
+Block Position(ref. frame)=65,1-->Error= 277343
+Block Position(ref. frame)=65,-1-->Invalid!
+Block Position(ref. frame)=63,0-->Error= 85007
+Block Position(ref. frame)=63,1-->Error= 86108
+Block Position(ref. frame)=63,-1-->Invalid!
+
+Match Position=64,0
+Minimal Error=47132
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,0
+
+------------------------------
+Block Position(ref. frame)=80,0-->Error= 312860
+Block Position(ref. frame)=80,1-->Error= 376212
+Block Position(ref. frame)=80,-1-->Invalid!
+Block Position(ref. frame)=81,0-->Error= 362227
+Block Position(ref. frame)=81,1-->Error= 416234
+Block Position(ref. frame)=81,-1-->Invalid!
+Block Position(ref. frame)=79,0-->Error= 264475
+Block Position(ref. frame)=79,1-->Error= 357467
+Block Position(ref. frame)=79,-1-->Invalid!
+
+Match Position=79,0
+Minimal Error=264475
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,0
+
+------------------------------
+Block Position(ref. frame)=96,0-->Error= 48532
+Block Position(ref. frame)=96,1-->Error= 13010
+Block Position(ref. frame)=96,-1-->Invalid!
+Block Position(ref. frame)=97,0-->Error= 94061
+Block Position(ref. frame)=97,1-->Error= 46250
+Block Position(ref. frame)=97,-1-->Invalid!
+Block Position(ref. frame)=95,0-->Error= 10179
+Block Position(ref. frame)=95,1-->Error= 16514
+Block Position(ref. frame)=95,-1-->Invalid!
+
+Match Position=95,0
+Minimal Error=10179
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,0
+
+------------------------------
+Block Position(ref. frame)=112,0-->Error= 202473
+Block Position(ref. frame)=112,1-->Error= 13857
+Block Position(ref. frame)=112,-1-->Invalid!
+Block Position(ref. frame)=113,0-->Error= 405928
+Block Position(ref. frame)=113,1-->Error= 181698
+Block Position(ref. frame)=113,-1-->Invalid!
+Block Position(ref. frame)=111,0-->Error= 19021
+Block Position(ref. frame)=111,1-->Error= 78451
+Block Position(ref. frame)=111,-1-->Invalid!
+
+Match Position=112,1
+Minimal Error=13857
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,0
+
+------------------------------
+Block Position(ref. frame)=128,0-->Error= 150274
+Block Position(ref. frame)=128,1-->Error= 20945
+Block Position(ref. frame)=128,-1-->Invalid!
+Block Position(ref. frame)=129,0-->Error= 301714
+Block Position(ref. frame)=129,1-->Error= 165992
+Block Position(ref. frame)=129,-1-->Invalid!
+Block Position(ref. frame)=127,0-->Error= 9635
+Block Position(ref. frame)=127,1-->Error= 51354
+Block Position(ref. frame)=127,-1-->Invalid!
+
+Match Position=127,0
+Minimal Error=9635
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,0
+
+------------------------------
+Block Position(ref. frame)=144,0-->Error= 195206
+Block Position(ref. frame)=144,1-->Error= 21143
+Block Position(ref. frame)=144,-1-->Invalid!
+Block Position(ref. frame)=145,0-->Error= 358669
+Block Position(ref. frame)=145,1-->Error= 212021
+Block Position(ref. frame)=145,-1-->Invalid!
+Block Position(ref. frame)=143,0-->Error= 11787
+Block Position(ref. frame)=143,1-->Error= 67830
+Block Position(ref. frame)=143,-1-->Invalid!
+
+Match Position=143,0
+Minimal Error=11787
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,0
+
+------------------------------
+Block Position(ref. frame)=160,0-->Error= 271842
+Block Position(ref. frame)=160,1-->Error= 72650
+Block Position(ref. frame)=160,-1-->Invalid!
+Block Position(ref. frame)=161,0-->Error= 861081
+Block Position(ref. frame)=161,1-->Error= 717751
+Block Position(ref. frame)=161,-1-->Invalid!
+Block Position(ref. frame)=159,0-->Error= 26293
+Block Position(ref. frame)=159,1-->Error= 77712
+Block Position(ref. frame)=159,-1-->Invalid!
+
+Match Position=159,0
+Minimal Error=26293
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=0,16
+
+------------------------------
+Block Position(ref. frame)=0,16-->Error= 1902
+Block Position(ref. frame)=0,17-->Error= 73511
+Block Position(ref. frame)=0,15-->Error= 83726
+Block Position(ref. frame)=1,16-->Error= 271988
+Block Position(ref. frame)=1,17-->Error= 394835
+Block Position(ref. frame)=1,15-->Error= 266706
+Block Position(ref. frame)=-1,16-->Invalid!
+Block Position(ref. frame)=-1,17-->Invalid!
+Block Position(ref. frame)=-1,15-->Invalid!
+
+Match Position=0,16
+Minimal Error=1902
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,16
+
+------------------------------
+Block Position(ref. frame)=16,16-->Error= 2345
+Block Position(ref. frame)=16,17-->Error= 157621
+Block Position(ref. frame)=16,15-->Error= 166294
+Block Position(ref. frame)=17,16-->Error= 40998
+Block Position(ref. frame)=17,17-->Error= 277986
+Block Position(ref. frame)=17,15-->Error= 64753
+Block Position(ref. frame)=15,16-->Error= 48511
+Block Position(ref. frame)=15,17-->Error= 49372
+Block Position(ref. frame)=15,15-->Error= 265303
+
+Match Position=16,16
+Minimal Error=2345
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,16
+
+------------------------------
+Block Position(ref. frame)=32,16-->Error= 3077
+Block Position(ref. frame)=32,17-->Error= 141935
+Block Position(ref. frame)=32,15-->Error= 180238
+Block Position(ref. frame)=33,16-->Error= 35043
+Block Position(ref. frame)=33,17-->Error= 249925
+Block Position(ref. frame)=33,15-->Error= 73978
+Block Position(ref. frame)=31,16-->Error= 49879
+Block Position(ref. frame)=31,17-->Error= 45912
+Block Position(ref. frame)=31,15-->Error= 297240
+
+Match Position=32,16
+Minimal Error=3077
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,16
+
+------------------------------
+Block Position(ref. frame)=48,16-->Error= 23645
+Block Position(ref. frame)=48,17-->Error= 62810
+Block Position(ref. frame)=48,15-->Error= 82237
+Block Position(ref. frame)=49,16-->Error= 42418
+Block Position(ref. frame)=49,17-->Error= 89549
+Block Position(ref. frame)=49,15-->Error= 57647
+Block Position(ref. frame)=47,16-->Error= 28751
+Block Position(ref. frame)=47,17-->Error= 26807
+Block Position(ref. frame)=47,15-->Error= 117801
+
+Match Position=48,16
+Minimal Error=23645
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,16
+
+------------------------------
+Block Position(ref. frame)=64,16-->Error= 9359
+Block Position(ref. frame)=64,17-->Error= 9307
+Block Position(ref. frame)=64,15-->Error= 9106
+Block Position(ref. frame)=65,16-->Error= 9596
+Block Position(ref. frame)=65,17-->Error= 9450
+Block Position(ref. frame)=65,15-->Error= 9509
+Block Position(ref. frame)=63,16-->Error= 8870
+Block Position(ref. frame)=63,17-->Error= 9059
+Block Position(ref. frame)=63,15-->Error= 8374
+
+Match Position=63,15
+Minimal Error=8374
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,16
+
+------------------------------
+Block Position(ref. frame)=80,16-->Error= 195
+Block Position(ref. frame)=80,17-->Error= 204
+Block Position(ref. frame)=80,15-->Error= 187
+Block Position(ref. frame)=81,16-->Error= 204
+Block Position(ref. frame)=81,17-->Error= 199
+Block Position(ref. frame)=81,15-->Error= 178
+Block Position(ref. frame)=79,16-->Error= 197
+Block Position(ref. frame)=79,17-->Error= 178
+Block Position(ref. frame)=79,15-->Error= 191
+
+Match Position=81,15
+Minimal Error=178
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,16
+
+------------------------------
+Block Position(ref. frame)=96,16-->Error= 9959
+Block Position(ref. frame)=96,17-->Error= 6701
+Block Position(ref. frame)=96,15-->Error= 13220
+Block Position(ref. frame)=97,16-->Error= 16938
+Block Position(ref. frame)=97,17-->Error= 13315
+Block Position(ref. frame)=97,15-->Error= 21196
+Block Position(ref. frame)=95,16-->Error= 4354
+Block Position(ref. frame)=95,17-->Error= 2037
+Block Position(ref. frame)=95,15-->Error= 6977
+
+Match Position=95,17
+Minimal Error=2037
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,16
+
+------------------------------
+Block Position(ref. frame)=112,16-->Error= 104195
+Block Position(ref. frame)=112,17-->Error= 107781
+Block Position(ref. frame)=112,15-->Error= 118243
+Block Position(ref. frame)=113,16-->Error= 143539
+Block Position(ref. frame)=113,17-->Error= 145920
+Block Position(ref. frame)=113,15-->Error= 155468
+Block Position(ref. frame)=111,16-->Error= 65692
+Block Position(ref. frame)=111,17-->Error= 86397
+Block Position(ref. frame)=111,15-->Error= 80717
+
+Match Position=111,16
+Minimal Error=65692
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,16
+
+------------------------------
+Block Position(ref. frame)=128,16-->Error= 201721
+Block Position(ref. frame)=128,17-->Error= 16177
+Block Position(ref. frame)=128,15-->Error= 434490
+Block Position(ref. frame)=129,16-->Error= 418789
+Block Position(ref. frame)=129,17-->Error= 188079
+Block Position(ref. frame)=129,15-->Error= 631002
+Block Position(ref. frame)=127,16-->Error= 15378
+Block Position(ref. frame)=127,17-->Error= 85252
+Block Position(ref. frame)=127,15-->Error= 222862
+
+Match Position=127,16
+Minimal Error=15378
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,16
+
+------------------------------
+Block Position(ref. frame)=144,16-->Error= 146590
+Block Position(ref. frame)=144,17-->Error= 15768
+Block Position(ref. frame)=144,15-->Error= 297000
+Block Position(ref. frame)=145,16-->Error= 305298
+Block Position(ref. frame)=145,17-->Error= 156888
+Block Position(ref. frame)=145,15-->Error= 396786
+Block Position(ref. frame)=143,16-->Error= 8603
+Block Position(ref. frame)=143,17-->Error= 59850
+Block Position(ref. frame)=143,15-->Error= 142894
+
+Match Position=143,16
+Minimal Error=8603
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,16
+
+------------------------------
+Block Position(ref. frame)=160,16-->Error= 176970
+Block Position(ref. frame)=160,17-->Error= 66960
+Block Position(ref. frame)=160,15-->Error= 300783
+Block Position(ref. frame)=161,16-->Error= 831433
+Block Position(ref. frame)=161,17-->Error= 746128
+Block Position(ref. frame)=161,15-->Error= 870606
+Block Position(ref. frame)=159,16-->Error= 15280
+Block Position(ref. frame)=159,17-->Error= 65872
+Block Position(ref. frame)=159,15-->Error= 155513
+
+Match Position=159,16
+Minimal Error=15280
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=0,32
+
+------------------------------
+Block Position(ref. frame)=0,32-->Error= 3901
+Block Position(ref. frame)=0,33-->Error= 95591
+Block Position(ref. frame)=0,31-->Error= 123045
+Block Position(ref. frame)=1,32-->Error= 239629
+Block Position(ref. frame)=1,33-->Error= 381343
+Block Position(ref. frame)=1,31-->Error= 270943
+Block Position(ref. frame)=-1,32-->Invalid!
+Block Position(ref. frame)=-1,33-->Invalid!
+Block Position(ref. frame)=-1,31-->Invalid!
+
+Match Position=0,32
+Minimal Error=3901
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,32
+
+------------------------------
+Block Position(ref. frame)=16,32-->Error= 4228
+Block Position(ref. frame)=16,33-->Error= 19389
+Block Position(ref. frame)=16,31-->Error= 34444
+Block Position(ref. frame)=17,32-->Error= 8642
+Block Position(ref. frame)=17,33-->Error= 27217
+Block Position(ref. frame)=17,31-->Error= 16114
+Block Position(ref. frame)=15,32-->Error= 8475
+Block Position(ref. frame)=15,33-->Error= 8358
+Block Position(ref. frame)=15,31-->Error= 61723
+
+Match Position=16,32
+Minimal Error=4228
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,32
+
+------------------------------
+Block Position(ref. frame)=32,32-->Error= 6510
+Block Position(ref. frame)=32,33-->Error= 62259
+Block Position(ref. frame)=32,31-->Error= 63760
+Block Position(ref. frame)=33,32-->Error= 25785
+Block Position(ref. frame)=33,33-->Error= 117427
+Block Position(ref. frame)=33,31-->Error= 39355
+Block Position(ref. frame)=31,32-->Error= 16083
+Block Position(ref. frame)=31,33-->Error= 18971
+Block Position(ref. frame)=31,31-->Error= 91208
+
+Match Position=32,32
+Minimal Error=6510
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,32
+
+------------------------------
+Block Position(ref. frame)=48,32-->Error= 507024
+Block Position(ref. frame)=48,33-->Error= 582172
+Block Position(ref. frame)=48,31-->Error= 467593
+Block Position(ref. frame)=49,32-->Error= 559139
+Block Position(ref. frame)=49,33-->Error= 604748
+Block Position(ref. frame)=49,31-->Error= 519834
+Block Position(ref. frame)=47,32-->Error= 439124
+Block Position(ref. frame)=47,33-->Error= 520371
+Block Position(ref. frame)=47,31-->Error= 402701
+
+Match Position=47,31
+Minimal Error=402701
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,32
+
+------------------------------
+Block Position(ref. frame)=64,32-->Error= 82862
+Block Position(ref. frame)=64,33-->Error= 201781
+Block Position(ref. frame)=64,31-->Error= 30418
+Block Position(ref. frame)=65,32-->Error= 106248
+Block Position(ref. frame)=65,33-->Error= 233361
+Block Position(ref. frame)=65,31-->Error= 42194
+Block Position(ref. frame)=63,32-->Error= 61158
+Block Position(ref. frame)=63,33-->Error= 171590
+Block Position(ref. frame)=63,31-->Error= 22961
+
+Match Position=63,31
+Minimal Error=22961
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,32
+
+------------------------------
+Block Position(ref. frame)=80,32-->Error= 22498
+Block Position(ref. frame)=80,33-->Error= 158174
+Block Position(ref. frame)=80,31-->Error= 94638
+Block Position(ref. frame)=81,32-->Error= 25507
+Block Position(ref. frame)=81,33-->Error= 153483
+Block Position(ref. frame)=81,31-->Error= 105668
+Block Position(ref. frame)=79,32-->Error= 19559
+Block Position(ref. frame)=79,33-->Error= 161832
+Block Position(ref. frame)=79,31-->Error= 84733
+
+Match Position=79,32
+Minimal Error=19559
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,32
+
+------------------------------
+Block Position(ref. frame)=96,32-->Error= 15813
+Block Position(ref. frame)=96,33-->Error= 133226
+Block Position(ref. frame)=96,31-->Error= 75999
+Block Position(ref. frame)=97,32-->Error= 18095
+Block Position(ref. frame)=97,33-->Error= 109273
+Block Position(ref. frame)=97,31-->Error= 97810
+Block Position(ref. frame)=95,32-->Error= 18002
+Block Position(ref. frame)=95,33-->Error= 159411
+Block Position(ref. frame)=95,31-->Error= 57780
+
+Match Position=96,32
+Minimal Error=15813
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,32
+
+------------------------------
+Block Position(ref. frame)=112,32-->Error= 304422
+Block Position(ref. frame)=112,33-->Error= 197350
+Block Position(ref. frame)=112,31-->Error= 492820
+Block Position(ref. frame)=113,32-->Error= 497133
+Block Position(ref. frame)=113,33-->Error= 333149
+Block Position(ref. frame)=113,31-->Error= 669260
+Block Position(ref. frame)=111,32-->Error= 142792
+Block Position(ref. frame)=111,33-->Error= 173831
+Block Position(ref. frame)=111,31-->Error= 300173
+
+Match Position=111,32
+Minimal Error=142792
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,32
+
+------------------------------
+Block Position(ref. frame)=128,32-->Error= 91834
+Block Position(ref. frame)=128,33-->Error= 4303
+Block Position(ref. frame)=128,31-->Error= 210269
+Block Position(ref. frame)=129,32-->Error= 192525
+Block Position(ref. frame)=129,33-->Error= 71563
+Block Position(ref. frame)=129,31-->Error= 284888
+Block Position(ref. frame)=127,32-->Error= 8204
+Block Position(ref. frame)=127,33-->Error= 45773
+Block Position(ref. frame)=127,31-->Error= 114261
+
+Match Position=128,33
+Minimal Error=4303
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,32
+
+------------------------------
+Block Position(ref. frame)=144,32-->Error= 181907
+Block Position(ref. frame)=144,33-->Error= 11968
+Block Position(ref. frame)=144,31-->Error= 387056
+Block Position(ref. frame)=145,32-->Error= 378058
+Block Position(ref. frame)=145,33-->Error= 171990
+Block Position(ref. frame)=145,31-->Error= 546998
+Block Position(ref. frame)=143,32-->Error= 11436
+Block Position(ref. frame)=143,33-->Error= 80589
+Block Position(ref. frame)=143,31-->Error= 197427
+
+Match Position=143,32
+Minimal Error=11436
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,32
+
+------------------------------
+Block Position(ref. frame)=160,32-->Error= 106583
+Block Position(ref. frame)=160,33-->Error= 26323
+Block Position(ref. frame)=160,31-->Error= 191600
+Block Position(ref. frame)=161,32-->Error= 737729
+Block Position(ref. frame)=161,33-->Error= 664791
+Block Position(ref. frame)=161,31-->Error= 788343
+Block Position(ref. frame)=159,32-->Error= 9643
+Block Position(ref. frame)=159,33-->Error= 53216
+Block Position(ref. frame)=159,31-->Error= 115199
+
+Match Position=159,32
+Minimal Error=9643
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=0,48
+
+------------------------------
+Block Position(ref. frame)=0,48-->Error= 6394
+Block Position(ref. frame)=0,49-->Error= 58768
+Block Position(ref. frame)=0,47-->Error= 73023
+Block Position(ref. frame)=1,48-->Error= 248959
+Block Position(ref. frame)=1,49-->Error= 320813
+Block Position(ref. frame)=1,47-->Error= 290225
+Block Position(ref. frame)=-1,48-->Invalid!
+Block Position(ref. frame)=-1,49-->Invalid!
+Block Position(ref. frame)=-1,47-->Invalid!
+
+Match Position=0,48
+Minimal Error=6394
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,48
+
+------------------------------
+Block Position(ref. frame)=16,48-->Error= 3312
+Block Position(ref. frame)=16,49-->Error= 63273
+Block Position(ref. frame)=16,47-->Error= 91612
+Block Position(ref. frame)=17,48-->Error= 9077
+Block Position(ref. frame)=17,49-->Error= 108397
+Block Position(ref. frame)=17,47-->Error= 48255
+Block Position(ref. frame)=15,48-->Error= 22392
+Block Position(ref. frame)=15,49-->Error= 24127
+Block Position(ref. frame)=15,47-->Error= 136912
+
+Match Position=16,48
+Minimal Error=3312
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,48
+
+------------------------------
+Block Position(ref. frame)=32,48-->Error= 68254
+Block Position(ref. frame)=32,49-->Error= 72383
+Block Position(ref. frame)=32,47-->Error= 98151
+Block Position(ref. frame)=33,48-->Error= 144590
+Block Position(ref. frame)=33,49-->Error= 144396
+Block Position(ref. frame)=33,47-->Error= 166989
+Block Position(ref. frame)=31,48-->Error= 15787
+Block Position(ref. frame)=31,49-->Error= 15013
+Block Position(ref. frame)=31,47-->Error= 60356
+
+Match Position=31,49
+Minimal Error=15013
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,48
+
+------------------------------
+Block Position(ref. frame)=48,48-->Error= 636121
+Block Position(ref. frame)=48,49-->Error= 601003
+Block Position(ref. frame)=48,47-->Error= 654611
+Block Position(ref. frame)=49,48-->Error= 630514
+Block Position(ref. frame)=49,49-->Error= 596731
+Block Position(ref. frame)=49,47-->Error= 645676
+Block Position(ref. frame)=47,48-->Error= 572533
+Block Position(ref. frame)=47,49-->Error= 543145
+Block Position(ref. frame)=47,47-->Error= 591917
+
+Match Position=47,49
+Minimal Error=543145
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,48
+
+------------------------------
+Block Position(ref. frame)=64,48-->Error= 74722
+Block Position(ref. frame)=64,49-->Error= 96603
+Block Position(ref. frame)=64,47-->Error= 62198
+Block Position(ref. frame)=65,48-->Error= 94515
+Block Position(ref. frame)=65,49-->Error= 118195
+Block Position(ref. frame)=65,47-->Error= 77635
+Block Position(ref. frame)=63,48-->Error= 58069
+Block Position(ref. frame)=63,49-->Error= 77545
+Block Position(ref. frame)=63,47-->Error= 49312
+
+Match Position=63,47
+Minimal Error=49312
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,48
+
+------------------------------
+Block Position(ref. frame)=80,48-->Error= 62872
+Block Position(ref. frame)=80,49-->Error= 74315
+Block Position(ref. frame)=80,47-->Error= 62593
+Block Position(ref. frame)=81,48-->Error= 95117
+Block Position(ref. frame)=81,49-->Error= 108202
+Block Position(ref. frame)=81,47-->Error= 89563
+Block Position(ref. frame)=79,48-->Error= 36177
+Block Position(ref. frame)=79,49-->Error= 47083
+Block Position(ref. frame)=79,47-->Error= 39349
+
+Match Position=79,48
+Minimal Error=36177
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,48
+
+------------------------------
+Block Position(ref. frame)=96,48-->Error= 70655
+Block Position(ref. frame)=96,49-->Error= 65570
+Block Position(ref. frame)=96,47-->Error= 80613
+Block Position(ref. frame)=97,48-->Error= 93861
+Block Position(ref. frame)=97,49-->Error= 88166
+Block Position(ref. frame)=97,47-->Error= 101612
+Block Position(ref. frame)=95,48-->Error= 46597
+Block Position(ref. frame)=95,49-->Error= 46932
+Block Position(ref. frame)=95,47-->Error= 57786
+
+Match Position=95,48
+Minimal Error=46597
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,48
+
+------------------------------
+Block Position(ref. frame)=112,48-->Error= 374646
+Block Position(ref. frame)=112,49-->Error= 403267
+Block Position(ref. frame)=112,47-->Error= 343730
+Block Position(ref. frame)=113,48-->Error= 491082
+Block Position(ref. frame)=113,49-->Error= 518820
+Block Position(ref. frame)=113,47-->Error= 463110
+Block Position(ref. frame)=111,48-->Error= 263722
+Block Position(ref. frame)=111,49-->Error= 297968
+Block Position(ref. frame)=111,47-->Error= 236348
+
+Match Position=111,47
+Minimal Error=236348
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,48
+
+------------------------------
+Block Position(ref. frame)=128,48-->Error= 105398
+Block Position(ref. frame)=128,49-->Error= 5594
+Block Position(ref. frame)=128,47-->Error= 264738
+Block Position(ref. frame)=129,48-->Error= 237157
+Block Position(ref. frame)=129,49-->Error= 79751
+Block Position(ref. frame)=129,47-->Error= 396403
+Block Position(ref. frame)=127,48-->Error= 10487
+Block Position(ref. frame)=127,49-->Error= 46638
+Block Position(ref. frame)=127,47-->Error= 136622
+
+Match Position=128,49
+Minimal Error=5594
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,48
+
+------------------------------
+Block Position(ref. frame)=144,48-->Error= 111824
+Block Position(ref. frame)=144,49-->Error= 2909
+Block Position(ref. frame)=144,47-->Error= 273429
+Block Position(ref. frame)=145,48-->Error= 247579
+Block Position(ref. frame)=145,49-->Error= 87385
+Block Position(ref. frame)=145,47-->Error= 401830
+Block Position(ref. frame)=143,48-->Error= 8407
+Block Position(ref. frame)=143,49-->Error= 61784
+Block Position(ref. frame)=143,47-->Error= 138704
+
+Match Position=144,49
+Minimal Error=2909
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,48
+
+------------------------------
+Block Position(ref. frame)=160,48-->Error= 174094
+Block Position(ref. frame)=160,49-->Error= 21999
+Block Position(ref. frame)=160,47-->Error= 368884
+Block Position(ref. frame)=161,48-->Error= 857666
+Block Position(ref. frame)=161,49-->Error= 677836
+Block Position(ref. frame)=161,47-->Error= 1017584
+Block Position(ref. frame)=159,48-->Error= 11634
+Block Position(ref. frame)=159,49-->Error= 74205
+Block Position(ref. frame)=159,47-->Error= 189137
+
+Match Position=159,48
+Minimal Error=11634
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=0,64
+
+------------------------------
+Block Position(ref. frame)=0,64-->Error= 67117
+Block Position(ref. frame)=0,65-->Error= 25123
+Block Position(ref. frame)=0,63-->Error= 217192
+Block Position(ref. frame)=1,64-->Error= 393730
+Block Position(ref. frame)=1,65-->Error= 315837
+Block Position(ref. frame)=1,63-->Error= 526051
+Block Position(ref. frame)=-1,64-->Invalid!
+Block Position(ref. frame)=-1,65-->Invalid!
+Block Position(ref. frame)=-1,63-->Invalid!
+
+Match Position=0,65
+Minimal Error=25123
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,64
+
+------------------------------
+Block Position(ref. frame)=16,64-->Error= 41584
+Block Position(ref. frame)=16,65-->Error= 4641
+Block Position(ref. frame)=16,63-->Error= 129665
+Block Position(ref. frame)=17,64-->Error= 104247
+Block Position(ref. frame)=17,65-->Error= 32962
+Block Position(ref. frame)=17,63-->Error= 209471
+Block Position(ref. frame)=15,64-->Error= 4398
+Block Position(ref. frame)=15,65-->Error= 19529
+Block Position(ref. frame)=15,63-->Error= 61689
+
+Match Position=15,64
+Minimal Error=4398
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,64
+
+------------------------------
+Block Position(ref. frame)=32,64-->Error= 6990
+Block Position(ref. frame)=32,65-->Error= 1098
+Block Position(ref. frame)=32,63-->Error= 25688
+Block Position(ref. frame)=33,64-->Error= 14668
+Block Position(ref. frame)=33,65-->Error= 1798
+Block Position(ref. frame)=33,63-->Error= 34944
+Block Position(ref. frame)=31,64-->Error= 1571
+Block Position(ref. frame)=31,65-->Error= 5742
+Block Position(ref. frame)=31,63-->Error= 16443
+
+Match Position=32,65
+Minimal Error=1098
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,64
+
+------------------------------
+Block Position(ref. frame)=48,64-->Error= 130537
+Block Position(ref. frame)=48,65-->Error= 132962
+Block Position(ref. frame)=48,63-->Error= 127126
+Block Position(ref. frame)=49,64-->Error= 154472
+Block Position(ref. frame)=49,65-->Error= 158105
+Block Position(ref. frame)=49,63-->Error= 148994
+Block Position(ref. frame)=47,64-->Error= 106554
+Block Position(ref. frame)=47,65-->Error= 104589
+Block Position(ref. frame)=47,63-->Error= 107300
+
+Match Position=47,65
+Minimal Error=104589
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,64
+
+------------------------------
+Block Position(ref. frame)=64,64-->Error= 59666
+Block Position(ref. frame)=64,65-->Error= 56391
+Block Position(ref. frame)=64,63-->Error= 87629
+Block Position(ref. frame)=65,64-->Error= 79291
+Block Position(ref. frame)=65,65-->Error= 73784
+Block Position(ref. frame)=65,63-->Error= 110946
+Block Position(ref. frame)=63,64-->Error= 42311
+Block Position(ref. frame)=63,65-->Error= 41503
+Block Position(ref. frame)=63,63-->Error= 66890
+
+Match Position=63,65
+Minimal Error=41503
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,64
+
+------------------------------
+Block Position(ref. frame)=80,64-->Error= 126877
+Block Position(ref. frame)=80,65-->Error= 125300
+Block Position(ref. frame)=80,63-->Error= 157093
+Block Position(ref. frame)=81,64-->Error= 198925
+Block Position(ref. frame)=81,65-->Error= 188546
+Block Position(ref. frame)=81,63-->Error= 228030
+Block Position(ref. frame)=79,64-->Error= 66230
+Block Position(ref. frame)=79,65-->Error= 70416
+Block Position(ref. frame)=79,63-->Error= 99704
+
+Match Position=79,64
+Minimal Error=66230
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,64
+
+------------------------------
+Block Position(ref. frame)=96,64-->Error= 114585
+Block Position(ref. frame)=96,65-->Error= 121931
+Block Position(ref. frame)=96,63-->Error= 132498
+Block Position(ref. frame)=97,64-->Error= 143707
+Block Position(ref. frame)=97,65-->Error= 149043
+Block Position(ref. frame)=97,63-->Error= 161945
+Block Position(ref. frame)=95,64-->Error= 77556
+Block Position(ref. frame)=95,65-->Error= 89338
+Block Position(ref. frame)=95,63-->Error= 96892
+
+Match Position=95,64
+Minimal Error=77556
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,64
+
+------------------------------
+Block Position(ref. frame)=112,64-->Error= 92828
+Block Position(ref. frame)=112,65-->Error= 45285
+Block Position(ref. frame)=112,63-->Error= 186281
+Block Position(ref. frame)=113,64-->Error= 164909
+Block Position(ref. frame)=113,65-->Error= 78461
+Block Position(ref. frame)=113,63-->Error= 252376
+Block Position(ref. frame)=111,64-->Error= 38671
+Block Position(ref. frame)=111,65-->Error= 59897
+Block Position(ref. frame)=111,63-->Error= 111945
+
+Match Position=111,64
+Minimal Error=38671
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,64
+
+------------------------------
+Block Position(ref. frame)=128,64-->Error= 82202
+Block Position(ref. frame)=128,65-->Error= 4209
+Block Position(ref. frame)=128,63-->Error= 208358
+Block Position(ref. frame)=129,64-->Error= 172442
+Block Position(ref. frame)=129,65-->Error= 48471
+Block Position(ref. frame)=129,63-->Error= 274427
+Block Position(ref. frame)=127,64-->Error= 9934
+Block Position(ref. frame)=127,65-->Error= 48268
+Block Position(ref. frame)=127,63-->Error= 123770
+
+Match Position=128,65
+Minimal Error=4209
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,64
+
+------------------------------
+Block Position(ref. frame)=144,64-->Error= 61994
+Block Position(ref. frame)=144,65-->Error= 2370
+Block Position(ref. frame)=144,63-->Error= 167756
+Block Position(ref. frame)=145,64-->Error= 146908
+Block Position(ref. frame)=145,65-->Error= 44462
+Block Position(ref. frame)=145,63-->Error= 263270
+Block Position(ref. frame)=143,64-->Error= 4505
+Block Position(ref. frame)=143,65-->Error= 27454
+Block Position(ref. frame)=143,63-->Error= 79815
+
+Match Position=144,65
+Minimal Error=2370
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,64
+
+------------------------------
+Block Position(ref. frame)=160,64-->Error= 144213
+Block Position(ref. frame)=160,65-->Error= 4418
+Block Position(ref. frame)=160,63-->Error= 369005
+Block Position(ref. frame)=161,64-->Error= 913562
+Block Position(ref. frame)=161,65-->Error= 700518
+Block Position(ref. frame)=161,63-->Error= 1121796
+Block Position(ref. frame)=159,64-->Error= 11493
+Block Position(ref. frame)=159,65-->Error= 82841
+Block Position(ref. frame)=159,63-->Error= 191639
+
+Match Position=160,65
+Minimal Error=4418
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=0,80
+
+------------------------------
+Block Position(ref. frame)=0,80-->Error= 4025
+Block Position(ref. frame)=0,81-->Error= 3643
+Block Position(ref. frame)=0,79-->Error= 6460
+Block Position(ref. frame)=1,80-->Error= 261990
+Block Position(ref. frame)=1,81-->Error= 263370
+Block Position(ref. frame)=1,79-->Error= 262338
+Block Position(ref. frame)=-1,80-->Invalid!
+Block Position(ref. frame)=-1,81-->Invalid!
+Block Position(ref. frame)=-1,79-->Invalid!
+
+Match Position=0,81
+Minimal Error=3643
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,80
+
+------------------------------
+Block Position(ref. frame)=16,80-->Error= 23345
+Block Position(ref. frame)=16,81-->Error= 5903
+Block Position(ref. frame)=16,79-->Error= 52347
+Block Position(ref. frame)=17,80-->Error= 63573
+Block Position(ref. frame)=17,81-->Error= 34260
+Block Position(ref. frame)=17,79-->Error= 100860
+Block Position(ref. frame)=15,80-->Error= 1380
+Block Position(ref. frame)=15,81-->Error= 7167
+Block Position(ref. frame)=15,79-->Error= 16733
+
+Match Position=15,80
+Minimal Error=1380
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,80
+
+------------------------------
+Block Position(ref. frame)=32,80-->Error= 12891
+Block Position(ref. frame)=32,81-->Error= 4165
+Block Position(ref. frame)=32,79-->Error= 41201
+Block Position(ref. frame)=33,80-->Error= 29757
+Block Position(ref. frame)=33,81-->Error= 12229
+Block Position(ref. frame)=33,79-->Error= 63927
+Block Position(ref. frame)=31,80-->Error= 1940
+Block Position(ref. frame)=31,81-->Error= 6736
+Block Position(ref. frame)=31,79-->Error= 22045
+
+Match Position=31,80
+Minimal Error=1940
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,80
+
+------------------------------
+Block Position(ref. frame)=48,80-->Error= 222074
+Block Position(ref. frame)=48,81-->Error= 209505
+Block Position(ref. frame)=48,79-->Error= 246195
+Block Position(ref. frame)=49,80-->Error= 294520
+Block Position(ref. frame)=49,81-->Error= 268699
+Block Position(ref. frame)=49,79-->Error= 327015
+Block Position(ref. frame)=47,80-->Error= 157191
+Block Position(ref. frame)=47,81-->Error= 157071
+Block Position(ref. frame)=47,79-->Error= 173192
+
+Match Position=47,81
+Minimal Error=157071
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,80
+
+------------------------------
+Block Position(ref. frame)=64,80-->Error= 111767
+Block Position(ref. frame)=64,81-->Error= 108596
+Block Position(ref. frame)=64,79-->Error= 125596
+Block Position(ref. frame)=65,80-->Error= 140932
+Block Position(ref. frame)=65,81-->Error= 138121
+Block Position(ref. frame)=65,79-->Error= 151454
+Block Position(ref. frame)=63,80-->Error= 84790
+Block Position(ref. frame)=63,81-->Error= 80196
+Block Position(ref. frame)=63,79-->Error= 99486
+
+Match Position=63,81
+Minimal Error=80196
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,80
+
+------------------------------
+Block Position(ref. frame)=80,80-->Error= 79173
+Block Position(ref. frame)=80,81-->Error= 115701
+Block Position(ref. frame)=80,79-->Error= 170713
+Block Position(ref. frame)=81,80-->Error= 110656
+Block Position(ref. frame)=81,81-->Error= 134973
+Block Position(ref. frame)=81,79-->Error= 198767
+Block Position(ref. frame)=79,80-->Error= 49419
+Block Position(ref. frame)=79,81-->Error= 98555
+Block Position(ref. frame)=79,79-->Error= 146317
+
+Match Position=79,80
+Minimal Error=49419
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,80
+
+------------------------------
+Block Position(ref. frame)=96,80-->Error= 98509
+Block Position(ref. frame)=96,81-->Error= 95114
+Block Position(ref. frame)=96,79-->Error= 117065
+Block Position(ref. frame)=97,80-->Error= 145418
+Block Position(ref. frame)=97,81-->Error= 135420
+Block Position(ref. frame)=97,79-->Error= 151667
+Block Position(ref. frame)=95,80-->Error= 55390
+Block Position(ref. frame)=95,81-->Error= 67560
+Block Position(ref. frame)=95,79-->Error= 83703
+
+Match Position=95,80
+Minimal Error=55390
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,80
+
+------------------------------
+Block Position(ref. frame)=112,80-->Error= 61626
+Block Position(ref. frame)=112,81-->Error= 64532
+Block Position(ref. frame)=112,79-->Error= 63036
+Block Position(ref. frame)=113,80-->Error= 64732
+Block Position(ref. frame)=113,81-->Error= 66468
+Block Position(ref. frame)=113,79-->Error= 65926
+Block Position(ref. frame)=111,80-->Error= 51663
+Block Position(ref. frame)=111,81-->Error= 56749
+Block Position(ref. frame)=111,79-->Error= 51883
+
+Match Position=111,80
+Minimal Error=51663
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,80
+
+------------------------------
+Block Position(ref. frame)=128,80-->Error= 14367
+Block Position(ref. frame)=128,81-->Error= 4903
+Block Position(ref. frame)=128,79-->Error= 49918
+Block Position(ref. frame)=129,80-->Error= 37905
+Block Position(ref. frame)=129,81-->Error= 13847
+Block Position(ref. frame)=129,79-->Error= 73447
+Block Position(ref. frame)=127,80-->Error= 2629
+Block Position(ref. frame)=127,81-->Error= 5496
+Block Position(ref. frame)=127,79-->Error= 29765
+
+Match Position=127,80
+Minimal Error=2629
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,80
+
+------------------------------
+Block Position(ref. frame)=144,80-->Error= 90233
+Block Position(ref. frame)=144,81-->Error= 2456
+Block Position(ref. frame)=144,79-->Error= 237702
+Block Position(ref. frame)=145,80-->Error= 198715
+Block Position(ref. frame)=145,81-->Error= 51243
+Block Position(ref. frame)=145,79-->Error= 320140
+Block Position(ref. frame)=143,80-->Error= 8616
+Block Position(ref. frame)=143,81-->Error= 54136
+Block Position(ref. frame)=143,79-->Error= 136270
+
+Match Position=144,81
+Minimal Error=2456
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,80
+
+------------------------------
+Block Position(ref. frame)=160,80-->Error= 49769
+Block Position(ref. frame)=160,81-->Error= 1940
+Block Position(ref. frame)=160,79-->Error= 128891
+Block Position(ref. frame)=161,80-->Error= 727242
+Block Position(ref. frame)=161,81-->Error= 657194
+Block Position(ref. frame)=161,79-->Error= 793867
+Block Position(ref. frame)=159,80-->Error= 5378
+Block Position(ref. frame)=159,81-->Error= 28110
+Block Position(ref. frame)=159,79-->Error= 70370
+
+Match Position=160,81
+Minimal Error=1940
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=0,96
+
+------------------------------
+Block Position(ref. frame)=0,96-->Error= 3326
+Block Position(ref. frame)=0,97-->Error= 3148
+Block Position(ref. frame)=0,95-->Error= 4152
+Block Position(ref. frame)=1,96-->Error= 256344
+Block Position(ref. frame)=1,97-->Error= 254791
+Block Position(ref. frame)=1,95-->Error= 254697
+Block Position(ref. frame)=-1,96-->Invalid!
+Block Position(ref. frame)=-1,97-->Invalid!
+Block Position(ref. frame)=-1,95-->Invalid!
+
+Match Position=0,97
+Minimal Error=3148
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,96
+
+------------------------------
+Block Position(ref. frame)=16,96-->Error= 3273
+Block Position(ref. frame)=16,97-->Error= 3455
+Block Position(ref. frame)=16,95-->Error= 5519
+Block Position(ref. frame)=17,96-->Error= 6879
+Block Position(ref. frame)=17,97-->Error= 6087
+Block Position(ref. frame)=17,95-->Error= 8157
+Block Position(ref. frame)=15,96-->Error= 1318
+Block Position(ref. frame)=15,97-->Error= 1662
+Block Position(ref. frame)=15,95-->Error= 4710
+
+Match Position=15,96
+Minimal Error=1318
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,96
+
+------------------------------
+Block Position(ref. frame)=32,96-->Error= 22501
+Block Position(ref. frame)=32,97-->Error= 5652
+Block Position(ref. frame)=32,95-->Error= 48309
+Block Position(ref. frame)=33,96-->Error= 59982
+Block Position(ref. frame)=33,97-->Error= 33546
+Block Position(ref. frame)=33,95-->Error= 90008
+Block Position(ref. frame)=31,96-->Error= 1126
+Block Position(ref. frame)=31,97-->Error= 7338
+Block Position(ref. frame)=31,95-->Error= 14801
+
+Match Position=31,96
+Minimal Error=1126
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,96
+
+------------------------------
+Block Position(ref. frame)=48,96-->Error= 73254
+Block Position(ref. frame)=48,97-->Error= 76187
+Block Position(ref. frame)=48,95-->Error= 77645
+Block Position(ref. frame)=49,96-->Error= 89665
+Block Position(ref. frame)=49,97-->Error= 86210
+Block Position(ref. frame)=49,95-->Error= 100329
+Block Position(ref. frame)=47,96-->Error= 55977
+Block Position(ref. frame)=47,97-->Error= 61136
+Block Position(ref. frame)=47,95-->Error= 57155
+
+Match Position=47,96
+Minimal Error=55977
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,96
+
+------------------------------
+Block Position(ref. frame)=64,96-->Error= 190513
+Block Position(ref. frame)=64,97-->Error= 181421
+Block Position(ref. frame)=64,95-->Error= 194964
+Block Position(ref. frame)=65,96-->Error= 194764
+Block Position(ref. frame)=65,97-->Error= 190857
+Block Position(ref. frame)=65,95-->Error= 207343
+Block Position(ref. frame)=63,96-->Error= 182681
+Block Position(ref. frame)=63,97-->Error= 151432
+Block Position(ref. frame)=63,95-->Error= 193711
+
+Match Position=63,97
+Minimal Error=151432
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,96
+
+------------------------------
+Block Position(ref. frame)=80,96-->Error= 18709
+Block Position(ref. frame)=80,97-->Error= 26797
+Block Position(ref. frame)=80,95-->Error= 47223
+Block Position(ref. frame)=81,96-->Error= 27099
+Block Position(ref. frame)=81,97-->Error= 34068
+Block Position(ref. frame)=81,95-->Error= 55567
+Block Position(ref. frame)=79,96-->Error= 11357
+Block Position(ref. frame)=79,97-->Error= 20752
+Block Position(ref. frame)=79,95-->Error= 40108
+
+Match Position=79,96
+Minimal Error=11357
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,96
+
+------------------------------
+Block Position(ref. frame)=96,96-->Error= 141533
+Block Position(ref. frame)=96,97-->Error= 179562
+Block Position(ref. frame)=96,95-->Error= 116954
+Block Position(ref. frame)=97,96-->Error= 180488
+Block Position(ref. frame)=97,97-->Error= 219910
+Block Position(ref. frame)=97,95-->Error= 152527
+Block Position(ref. frame)=95,96-->Error= 98258
+Block Position(ref. frame)=95,97-->Error= 132294
+Block Position(ref. frame)=95,95-->Error= 79364
+
+Match Position=95,95
+Minimal Error=79364
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,96
+
+------------------------------
+Block Position(ref. frame)=112,96-->Error= 763
+Block Position(ref. frame)=112,97-->Error= 1931
+Block Position(ref. frame)=112,95-->Error= 3572
+Block Position(ref. frame)=113,96-->Error= 1487
+Block Position(ref. frame)=113,97-->Error= 2505
+Block Position(ref. frame)=113,95-->Error= 3750
+Block Position(ref. frame)=111,96-->Error= 630
+Block Position(ref. frame)=111,97-->Error= 1823
+Block Position(ref. frame)=111,95-->Error= 3585
+
+Match Position=111,96
+Minimal Error=630
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,96
+
+------------------------------
+Block Position(ref. frame)=128,96-->Error= 1295
+Block Position(ref. frame)=128,97-->Error= 2155
+Block Position(ref. frame)=128,95-->Error= 4334
+Block Position(ref. frame)=129,96-->Error= 2735
+Block Position(ref. frame)=129,97-->Error= 3342
+Block Position(ref. frame)=129,95-->Error= 4903
+Block Position(ref. frame)=127,96-->Error= 855
+Block Position(ref. frame)=127,97-->Error= 1563
+Block Position(ref. frame)=127,95-->Error= 4184
+
+Match Position=127,96
+Minimal Error=855
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,96
+
+------------------------------
+Block Position(ref. frame)=144,96-->Error= 3770
+Block Position(ref. frame)=144,97-->Error= 5198
+Block Position(ref. frame)=144,95-->Error= 10615
+Block Position(ref. frame)=145,96-->Error= 10261
+Block Position(ref. frame)=145,97-->Error= 10055
+Block Position(ref. frame)=145,95-->Error= 15466
+Block Position(ref. frame)=143,96-->Error= 1354
+Block Position(ref. frame)=143,97-->Error= 3179
+Block Position(ref. frame)=143,95-->Error= 9158
+
+Match Position=143,96
+Minimal Error=1354
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,96
+
+------------------------------
+Block Position(ref. frame)=160,96-->Error= 54583
+Block Position(ref. frame)=160,97-->Error= 2979
+Block Position(ref. frame)=160,95-->Error= 158669
+Block Position(ref. frame)=161,96-->Error= 468696
+Block Position(ref. frame)=161,97-->Error= 378984
+Block Position(ref. frame)=161,95-->Error= 562790
+Block Position(ref. frame)=159,96-->Error= 5523
+Block Position(ref. frame)=159,97-->Error= 32595
+Block Position(ref. frame)=159,95-->Error= 88581
+
+Match Position=160,97
+Minimal Error=2979
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=0,112
+
+------------------------------
+Block Position(ref. frame)=0,112-->Error= 2104
+Block Position(ref. frame)=0,113-->Error= 2314
+Block Position(ref. frame)=0,111-->Error= 3148
+Block Position(ref. frame)=1,112-->Error= 252675
+Block Position(ref. frame)=1,113-->Error= 251328
+Block Position(ref. frame)=1,111-->Error= 254920
+Block Position(ref. frame)=-1,112-->Invalid!
+Block Position(ref. frame)=-1,113-->Invalid!
+Block Position(ref. frame)=-1,111-->Invalid!
+
+Match Position=0,112
+Minimal Error=2104
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,112
+
+------------------------------
+Block Position(ref. frame)=16,112-->Error= 5946
+Block Position(ref. frame)=16,113-->Error= 11220
+Block Position(ref. frame)=16,111-->Error= 10753
+Block Position(ref. frame)=17,112-->Error= 7872
+Block Position(ref. frame)=17,113-->Error= 14383
+Block Position(ref. frame)=17,111-->Error= 10374
+Block Position(ref. frame)=15,112-->Error= 3286
+Block Position(ref. frame)=15,113-->Error= 6393
+Block Position(ref. frame)=15,111-->Error= 10580
+
+Match Position=15,112
+Minimal Error=3286
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,112
+
+------------------------------
+Block Position(ref. frame)=32,112-->Error= 32959
+Block Position(ref. frame)=32,113-->Error= 48498
+Block Position(ref. frame)=32,111-->Error= 35669
+Block Position(ref. frame)=33,112-->Error= 60812
+Block Position(ref. frame)=33,113-->Error= 74390
+Block Position(ref. frame)=33,111-->Error= 60676
+Block Position(ref. frame)=31,112-->Error= 12679
+Block Position(ref. frame)=31,113-->Error= 28947
+Block Position(ref. frame)=31,111-->Error= 19566
+
+Match Position=31,112
+Minimal Error=12679
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,112
+
+------------------------------
+Block Position(ref. frame)=48,112-->Error= 78873
+Block Position(ref. frame)=48,113-->Error= 91733
+Block Position(ref. frame)=48,111-->Error= 71089
+Block Position(ref. frame)=49,112-->Error= 92162
+Block Position(ref. frame)=49,113-->Error= 98096
+Block Position(ref. frame)=49,111-->Error= 84353
+Block Position(ref. frame)=47,112-->Error= 60351
+Block Position(ref. frame)=47,113-->Error= 77875
+Block Position(ref. frame)=47,111-->Error= 52957
+
+Match Position=47,111
+Minimal Error=52957
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,112
+
+------------------------------
+Block Position(ref. frame)=64,112-->Error= 138493
+Block Position(ref. frame)=64,113-->Error= 104286
+Block Position(ref. frame)=64,111-->Error= 168592
+Block Position(ref. frame)=65,112-->Error= 172337
+Block Position(ref. frame)=65,113-->Error= 139266
+Block Position(ref. frame)=65,111-->Error= 199433
+Block Position(ref. frame)=63,112-->Error= 95046
+Block Position(ref. frame)=63,113-->Error= 68764
+Block Position(ref. frame)=63,111-->Error= 134178
+
+Match Position=63,113
+Minimal Error=68764
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,112
+
+------------------------------
+Block Position(ref. frame)=80,112-->Error= 143871
+Block Position(ref. frame)=80,113-->Error= 145806
+Block Position(ref. frame)=80,111-->Error= 237385
+Block Position(ref. frame)=81,112-->Error= 157099
+Block Position(ref. frame)=81,113-->Error= 138112
+Block Position(ref. frame)=81,111-->Error= 248319
+Block Position(ref. frame)=79,112-->Error= 128808
+Block Position(ref. frame)=79,113-->Error= 151163
+Block Position(ref. frame)=79,111-->Error= 220217
+
+Match Position=79,112
+Minimal Error=128808
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,112
+
+------------------------------
+Block Position(ref. frame)=96,112-->Error= 293078
+Block Position(ref. frame)=96,113-->Error= 296400
+Block Position(ref. frame)=96,111-->Error= 279688
+Block Position(ref. frame)=97,112-->Error= 408596
+Block Position(ref. frame)=97,113-->Error= 403477
+Block Position(ref. frame)=97,111-->Error= 399342
+Block Position(ref. frame)=95,112-->Error= 187218
+Block Position(ref. frame)=95,113-->Error= 201982
+Block Position(ref. frame)=95,111-->Error= 162742
+
+Match Position=95,111
+Minimal Error=162742
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,112
+
+------------------------------
+Block Position(ref. frame)=112,112-->Error= 224672
+Block Position(ref. frame)=112,113-->Error= 196397
+Block Position(ref. frame)=112,111-->Error= 342587
+Block Position(ref. frame)=113,112-->Error= 326148
+Block Position(ref. frame)=113,113-->Error= 241320
+Block Position(ref. frame)=113,111-->Error= 414505
+Block Position(ref. frame)=111,112-->Error= 128478
+Block Position(ref. frame)=111,113-->Error= 183924
+Block Position(ref. frame)=111,111-->Error= 235034
+
+Match Position=111,112
+Minimal Error=128478
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,112
+
+------------------------------
+Block Position(ref. frame)=128,112-->Error= 71382
+Block Position(ref. frame)=128,113-->Error= 94932
+Block Position(ref. frame)=128,111-->Error= 280063
+Block Position(ref. frame)=129,112-->Error= 193501
+Block Position(ref. frame)=129,113-->Error= 173005
+Block Position(ref. frame)=129,111-->Error= 334204
+Block Position(ref. frame)=127,112-->Error= 36656
+Block Position(ref. frame)=127,113-->Error= 99175
+Block Position(ref. frame)=127,111-->Error= 236377
+
+Match Position=127,112
+Minimal Error=36656
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,112
+
+------------------------------
+Block Position(ref. frame)=144,112-->Error= 42690
+Block Position(ref. frame)=144,113-->Error= 138591
+Block Position(ref. frame)=144,111-->Error= 210082
+Block Position(ref. frame)=145,112-->Error= 177812
+Block Position(ref. frame)=145,113-->Error= 302145
+Block Position(ref. frame)=145,111-->Error= 260866
+Block Position(ref. frame)=143,112-->Error= 43586
+Block Position(ref. frame)=143,113-->Error= 85276
+Block Position(ref. frame)=143,111-->Error= 233401
+
+Match Position=144,112
+Minimal Error=42690
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,112
+
+------------------------------
+Block Position(ref. frame)=160,112-->Error= 52062
+Block Position(ref. frame)=160,113-->Error= 210108
+Block Position(ref. frame)=160,111-->Error= 275029
+Block Position(ref. frame)=161,112-->Error= 690842
+Block Position(ref. frame)=161,113-->Error= 825856
+Block Position(ref. frame)=161,111-->Error= 715051
+Block Position(ref. frame)=159,112-->Error= 59937
+Block Position(ref. frame)=159,113-->Error= 117562
+Block Position(ref. frame)=159,111-->Error= 334496
+
+Match Position=160,112
+Minimal Error=52062
+
+
+
+------------------------------------------
+Block Position(Current Frame)=0,128
+
+------------------------------
+Block Position(ref. frame)=0,128-->Error= 11630
+Block Position(ref. frame)=0,129-->Error= 489461
+Block Position(ref. frame)=0,127-->Error= 11825
+Block Position(ref. frame)=1,128-->Error= 246142
+Block Position(ref. frame)=1,129-->Error= 708980
+Block Position(ref. frame)=1,127-->Error= 247898
+Block Position(ref. frame)=-1,128-->Invalid!
+Block Position(ref. frame)=-1,129-->Invalid!
+Block Position(ref. frame)=-1,127-->Invalid!
+
+Match Position=0,128
+Minimal Error=11630
+
+
+
+------------------------------------------
+Block Position(Current Frame)=16,128
+
+------------------------------
+Block Position(ref. frame)=16,128-->Error= 108909
+Block Position(ref. frame)=16,129-->Error= 529329
+Block Position(ref. frame)=16,127-->Error= 100810
+Block Position(ref. frame)=17,128-->Error= 126054
+Block Position(ref. frame)=17,129-->Error= 544849
+Block Position(ref. frame)=17,127-->Error= 117585
+Block Position(ref. frame)=15,128-->Error= 92602
+Block Position(ref. frame)=15,129-->Error= 510460
+Block Position(ref. frame)=15,127-->Error= 87546
+
+Match Position=15,127
+Minimal Error=87546
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=32,128
+
+------------------------------
+Block Position(ref. frame)=32,128-->Error= 192174
+Block Position(ref. frame)=32,129-->Error= 521752
+Block Position(ref. frame)=32,127-->Error= 154632
+Block Position(ref. frame)=33,128-->Error= 257372
+Block Position(ref. frame)=33,129-->Error= 575772
+Block Position(ref. frame)=33,127-->Error= 226989
+Block Position(ref. frame)=31,128-->Error= 117722
+Block Position(ref. frame)=31,129-->Error= 455102
+Block Position(ref. frame)=31,127-->Error= 82837
+
+Match Position=31,127
+Minimal Error=82837
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=48,128
+
+------------------------------
+Block Position(ref. frame)=48,128-->Error= 112730
+Block Position(ref. frame)=48,129-->Error= 499317
+Block Position(ref. frame)=48,127-->Error= 117582
+Block Position(ref. frame)=49,128-->Error= 130915
+Block Position(ref. frame)=49,129-->Error= 519641
+Block Position(ref. frame)=49,127-->Error= 138079
+Block Position(ref. frame)=47,128-->Error= 99817
+Block Position(ref. frame)=47,129-->Error= 486954
+Block Position(ref. frame)=47,127-->Error= 98926
+
+Match Position=47,127
+Minimal Error=98926
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=64,128
+
+------------------------------
+Block Position(ref. frame)=64,128-->Error= 179575
+Block Position(ref. frame)=64,129-->Error= 535738
+Block Position(ref. frame)=64,127-->Error= 219086
+Block Position(ref. frame)=65,128-->Error= 207447
+Block Position(ref. frame)=65,129-->Error= 566884
+Block Position(ref. frame)=65,127-->Error= 235989
+Block Position(ref. frame)=63,128-->Error= 141119
+Block Position(ref. frame)=63,129-->Error= 499012
+Block Position(ref. frame)=63,127-->Error= 191544
+
+Match Position=63,128
+Minimal Error=141119
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=80,128
+
+------------------------------
+Block Position(ref. frame)=80,128-->Error= 105413
+Block Position(ref. frame)=80,129-->Error= 490145
+Block Position(ref. frame)=80,127-->Error= 146669
+Block Position(ref. frame)=81,128-->Error= 140150
+Block Position(ref. frame)=81,129-->Error= 525681
+Block Position(ref. frame)=81,127-->Error= 168245
+Block Position(ref. frame)=79,128-->Error= 72399
+Block Position(ref. frame)=79,129-->Error= 460641
+Block Position(ref. frame)=79,127-->Error= 120553
+
+Match Position=79,128
+Minimal Error=72399
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=96,128
+
+------------------------------
+Block Position(ref. frame)=96,128-->Error= 306229
+Block Position(ref. frame)=96,129-->Error= 794570
+Block Position(ref. frame)=96,127-->Error= 298892
+Block Position(ref. frame)=97,128-->Error= 417458
+Block Position(ref. frame)=97,129-->Error= 884441
+Block Position(ref. frame)=97,127-->Error= 422636
+Block Position(ref. frame)=95,128-->Error= 201512
+Block Position(ref. frame)=95,129-->Error= 716933
+Block Position(ref. frame)=95,127-->Error= 187721
+
+Match Position=95,127
+Minimal Error=187721
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=112,128
+
+------------------------------
+Block Position(ref. frame)=112,128-->Error= 392692
+Block Position(ref. frame)=112,129-->Error= 707911
+Block Position(ref. frame)=112,127-->Error= 419316
+Block Position(ref. frame)=113,128-->Error= 452166
+Block Position(ref. frame)=113,129-->Error= 748688
+Block Position(ref. frame)=113,127-->Error= 470829
+Block Position(ref. frame)=111,128-->Error= 248088
+Block Position(ref. frame)=111,129-->Error= 585522
+Block Position(ref. frame)=111,127-->Error= 255374
+
+Match Position=111,128
+Minimal Error=248088
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=128,128
+
+------------------------------
+Block Position(ref. frame)=128,128-->Error= 114278
+Block Position(ref. frame)=128,129-->Error= 491132
+Block Position(ref. frame)=128,127-->Error= 206383
+Block Position(ref. frame)=129,128-->Error= 257653
+Block Position(ref. frame)=129,129-->Error= 603020
+Block Position(ref. frame)=129,127-->Error= 274334
+Block Position(ref. frame)=127,128-->Error= 44913
+Block Position(ref. frame)=127,129-->Error= 508438
+Block Position(ref. frame)=127,127-->Error= 148030
+
+Match Position=127,128
+Minimal Error=44913
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=144,128
+
+------------------------------
+Block Position(ref. frame)=144,128-->Error= 80813
+Block Position(ref. frame)=144,129-->Error= 555769
+Block Position(ref. frame)=144,127-->Error= 291118
+Block Position(ref. frame)=145,128-->Error= 237474
+Block Position(ref. frame)=145,129-->Error= 655369
+Block Position(ref. frame)=145,127-->Error= 379540
+Block Position(ref. frame)=143,128-->Error= 53078
+Block Position(ref. frame)=143,129-->Error= 549785
+Block Position(ref. frame)=143,127-->Error= 253420
+
+Match Position=143,128
+Minimal Error=53078
+Changed!
+
+
+
+------------------------------------------
+Block Position(Current Frame)=160,128
+
+------------------------------
+Block Position(ref. frame)=160,128-->Error= 100147
+Block Position(ref. frame)=160,129-->Error= 387021
+Block Position(ref. frame)=160,127-->Error= 314018
+Block Position(ref. frame)=161,128-->Error= 714928
+Block Position(ref. frame)=161,129-->Error= 977107
+Block Position(ref. frame)=161,127-->Error= 788145
+Block Position(ref. frame)=159,128-->Error= 49915
+Block Position(ref. frame)=159,129-->Error= 332269
+Block Position(ref. frame)=159,127-->Error= 287634
+
+Match Position=159,128
+Minimal Error=49915
+Changed!
+
+
+
+------------------------------------------

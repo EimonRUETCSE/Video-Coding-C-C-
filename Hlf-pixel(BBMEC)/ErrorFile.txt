@@ -1,0 +1,297 @@
+Current block= 0,0 -->Match Position= 0,0
+Minimal Error=6535
+
+Current block= 16,0 -->Match Position= 16,0
+Minimal Error=3810
+
+Current block= 32,0 -->Match Position= 32,0
+Minimal Error=3481
+
+Current block= 48,0 -->Match Position= 48,0
+Minimal Error=4142
+
+Current block= 64,0 -->Match Position= 64,0
+Minimal Error=18120
+
+Current block= 80,0 -->Match Position= 79,0
+Minimal Error=35893
+
+Current block= 96,0 -->Match Position= 95,0
+Minimal Error=3054
+
+Current block= 112,0 -->Match Position= 118,6
+Minimal Error=16764
+
+Current block= 128,0 -->Match Position= 128,1
+Minimal Error=12474
+
+Current block= 144,0 -->Match Position= 149,6
+Minimal Error=16386
+
+Current block= 160,0 -->Match Position= 160,1
+Minimal Error=32250
+
+Current block= 0,16 -->Match Position= 0,16
+Minimal Error=3989
+
+Current block= 16,16 -->Match Position= 23,13
+Minimal Error=5870
+
+Current block= 32,16 -->Match Position= 28,18
+Minimal Error=6598
+
+Current block= 48,16 -->Match Position= 48,16
+Minimal Error=6722
+
+Current block= 64,16 -->Match Position= 62,16
+Minimal Error=549
+
+Current block= 80,16 -->Match Position= 83,15
+Minimal Error=138
+
+Current block= 96,16 -->Match Position= 94,15
+Minimal Error=208
+
+Current block= 112,16 -->Match Position= 111,16
+Minimal Error=7166
+
+Current block= 128,16 -->Match Position= 124,13
+Minimal Error=18637
+
+Current block= 144,16 -->Match Position= 144,17
+Minimal Error=10674
+
+Current block= 160,16 -->Match Position= 160,17
+Minimal Error=36023
+
+Current block= 0,32 -->Match Position= 0,32
+Minimal Error=6381
+
+Current block= 16,32 -->Match Position= 16,32
+Minimal Error=2317
+
+Current block= 32,32 -->Match Position= 38,30
+Minimal Error=4211
+
+Current block= 48,32 -->Match Position= 46,33
+Minimal Error=33931
+
+Current block= 64,32 -->Match Position= 63,32
+Minimal Error=2643
+
+Current block= 80,32 -->Match Position= 78,32
+Minimal Error=6920
+
+Current block= 96,32 -->Match Position= 94,32
+Minimal Error=3441
+
+Current block= 112,32 -->Match Position= 111,32
+Minimal Error=13079
+
+Current block= 128,32 -->Match Position= 125,30
+Minimal Error=5352
+
+Current block= 144,32 -->Match Position= 152,40
+Minimal Error=18529
+
+Current block= 160,32 -->Match Position= 160,32
+Minimal Error=6751
+
+Current block= 0,48 -->Match Position= 0,48
+Minimal Error=5638
+
+Current block= 16,48 -->Match Position= 14,49
+Minimal Error=3830
+
+Current block= 32,48 -->Match Position= 32,48
+Minimal Error=744
+
+Current block= 48,48 -->Match Position= 46,48
+Minimal Error=7237
+
+Current block= 64,48 -->Match Position= 63,48
+Minimal Error=4318
+
+Current block= 80,48 -->Match Position= 79,48
+Minimal Error=1704
+
+Current block= 96,48 -->Match Position= 95,48
+Minimal Error=1259
+
+Current block= 112,48 -->Match Position= 111,48
+Minimal Error=9735
+
+Current block= 128,48 -->Match Position= 131,51
+Minimal Error=8374
+
+Current block= 144,48 -->Match Position= 141,46
+Minimal Error=4418
+
+Current block= 160,48 -->Match Position= 154,43
+Minimal Error=8637
+
+Current block= 0,64 -->Match Position= 0,64
+Minimal Error=20399
+
+Current block= 16,64 -->Match Position= 15,64
+Minimal Error=1918
+
+Current block= 32,64 -->Match Position= 31,64
+Minimal Error=514
+
+Current block= 48,64 -->Match Position= 46,64
+Minimal Error=2056
+
+Current block= 64,64 -->Match Position= 63,64
+Minimal Error=3967
+
+Current block= 80,64 -->Match Position= 79,64
+Minimal Error=6940
+
+Current block= 96,64 -->Match Position= 95,64
+Minimal Error=2808
+
+Current block= 112,64 -->Match Position= 111,64
+Minimal Error=5106
+
+Current block= 128,64 -->Match Position= 126,63
+Minimal Error=6146
+
+Current block= 144,64 -->Match Position= 147,67
+Minimal Error=4085
+
+Current block= 160,64 -->Match Position= 157,62
+Minimal Error=6904
+
+Current block= 0,80 -->Match Position= 0,80
+Minimal Error=1383
+
+Current block= 16,80 -->Match Position= 16,81
+Minimal Error=2849
+
+Current block= 32,80 -->Match Position= 32,80
+Minimal Error=3581
+
+Current block= 48,80 -->Match Position= 47,80
+Minimal Error=3136
+
+Current block= 64,80 -->Match Position= 63,80
+Minimal Error=10486
+
+Current block= 80,80 -->Match Position= 79,80
+Minimal Error=20403
+
+Current block= 96,80 -->Match Position= 95,80
+Minimal Error=5768
+
+Current block= 112,80 -->Match Position= 111,80
+Minimal Error=3223
+
+Current block= 128,80 -->Match Position= 127,80
+Minimal Error=1319
+
+Current block= 144,80 -->Match Position= 142,79
+Minimal Error=4470
+
+Current block= 160,80 -->Match Position= 158,79
+Minimal Error=3557
+
+Current block= 0,96 -->Match Position= 0,96
+Minimal Error=1566
+
+Current block= 16,96 -->Match Position= 16,96
+Minimal Error=1024
+
+Current block= 32,96 -->Match Position= 32,97
+Minimal Error=2361
+
+Current block= 48,96 -->Match Position= 47,96
+Minimal Error=3220
+
+Current block= 64,96 -->Match Position= 63,96
+Minimal Error=6007
+
+Current block= 80,96 -->Match Position= 79,96
+Minimal Error=3466
+
+Current block= 96,96 -->Match Position= 95,96
+Minimal Error=2362
+
+Current block= 112,96 -->Match Position= 112,96
+Minimal Error=532
+
+Current block= 128,96 -->Match Position= 128,96
+Minimal Error=650
+
+Current block= 144,96 -->Match Position= 144,96
+Minimal Error=909
+
+Current block= 160,96 -->Match Position= 159,96
+Minimal Error=1769
+
+Current block= 0,112 -->Match Position= 0,112
+Minimal Error=807
+
+Current block= 16,112 -->Match Position= 16,112
+Minimal Error=2167
+
+Current block= 32,112 -->Match Position= 32,112
+Minimal Error=3432
+
+Current block= 48,112 -->Match Position= 47,112
+Minimal Error=3505
+
+Current block= 64,112 -->Match Position= 63,112
+Minimal Error=4614
+
+Current block= 80,112 -->Match Position= 79,112
+Minimal Error=12380
+
+Current block= 96,112 -->Match Position= 95,112
+Minimal Error=2249
+
+Current block= 112,112 -->Match Position= 111,112
+Minimal Error=18433
+
+Current block= 128,112 -->Match Position= 128,112
+Minimal Error=18504
+
+Current block= 144,112 -->Match Position= 144,112
+Minimal Error=11922
+
+Current block= 160,112 -->Match Position= 160,112
+Minimal Error=11707
+
+Current block= 0,128 -->Match Position= 0,128
+Minimal Error=5365
+
+Current block= 16,128 -->Match Position= 15,129
+Minimal Error=2944
+
+Current block= 32,128 -->Match Position= 31,128
+Minimal Error=5483
+
+Current block= 48,128 -->Match Position= 47,128
+Minimal Error=4392
+
+Current block= 64,128 -->Match Position= 63,128
+Minimal Error=6741
+
+Current block= 80,128 -->Match Position= 79,128
+Minimal Error=5360
+
+Current block= 96,128 -->Match Position= 95,128
+Minimal Error=1748
+
+Current block= 112,128 -->Match Position= 111,128
+Minimal Error=4001
+
+Current block= 128,128 -->Match Position= 128,128
+Minimal Error=16627
+
+Current block= 144,128 -->Match Position= 144,128
+Minimal Error=18020
+
+Current block= 160,128 -->Match Position= 160,128
+Minimal Error=17534
+
